@@ -6,11 +6,13 @@ time
 
 -- Projet en cours --
 
-## How to un it ?
+## How to run it ?
 
 Open your terminal
 
-Clone this project (Git clone git@github.com:ibrahim662/Snapchat.git ) 
+Clone this project ( $~git clone git@github.com:ibrahim662/Snapchat.git ) 
+
+$~cd Snapchat
 
 $~npm install
 
